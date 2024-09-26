@@ -1,0 +1,636 @@
+@media screen and (max-width:1199px) {
+
+    .nav>li>a {
+        font-size: 15px;
+    }
+
+    .crous {
+
+        margin-bottom: 5px;
+        padding-top: 5px;
+    }
+
+    .search-box h1 {
+        font-size: 60px;
+        font-weight: 600;
+        padding-top: 50px;
+        padding-bottom: 20px;
+    }
+
+    img.ofr-tag {
+        position: absolute;
+        right: -7.5%;
+        top: 51.3%;
+    }
+
+    .host-ofr {
+        height: auto;
+        width: 100%;
+    }
+
+    .hosting-pkg {
+        margin-top: 50px;
+    }
+
+    .hosting-pkg h2 {
+        padding-bottom: 50px;
+    }
+
+    .host-boost h2 {
+        padding-top: 50px;
+    }
+
+    .host-card {
+        padding: 20px 20px;
+        height: auto;
+    }
+
+    .host-card h5 {
+        font-size: 16px;
+    }
+
+    .host-dif {
+        margin-top: 50px;
+    }
+
+    .host-latest-tech {
+        padding-top: 10px;
+    }
+
+    .para-sp {
+        padding: 0px 0px;
+    }
+
+    .para-sp h4 {
+        font-size: 17px;
+        font-weight: 600;
+        padding-top: 5px;
+        padding-bottom: 0px;
+    }
+
+    .para-sp span h3 {
+        font-size: 35px;
+        color: #35a1e2;
+        padding-right: 18px;
+    }
+
+    #para-main {
+        padding-top: 10px;
+    }
+
+    .pkg-btn {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .foot-hd2 {
+        font-size: 24px;
+    }
+
+    .lnk-style i {
+        margin-right: 2px;
+    }
+
+    .foot-hd2 {
+        padding-top: 20px;
+    }
+
+    li.foot-li-pay.links img {
+        padding-top: 0px;
+        padding-bottom: 10px;
+        width: 24%;
+    }
+
+    li.foot-li-pay.links.store img {
+        width: 45%;
+    }
+
+    footer.host-foot-bg {
+        margin-top: 50px;
+    }
+
+    .offer-text h3:after {
+
+        right: -160px;
+
+        background-size: 85%;
+    }
+
+}
+
+@media screen and (max-width:991px) {
+
+    .search-box {
+        padding-bottom: 375px;
+    }
+
+    .search-box h1 {
+        font-size: 45px;
+        font-weight: 600;
+        padding-top: 25px;
+        padding-bottom: 20px;
+    }
+
+    .nav>li>a {
+        font-size: 18.1px;
+        padding-top: 18px;
+    }
+
+    .search-here {
+        height: 50px;
+        width: 400px;
+    }
+
+    .search-button {
+        height: 50px;
+        width: 400px;
+    }
+
+    .hosting-ofr-img {
+        padding-top: 30px;
+    }
+
+    img.ofr-tag {
+        position: absolute;
+        right: 3.4%;
+        top: 51.3%;
+    }
+
+    .host-dif {
+        background-attachment: fixed;
+    }
+
+    .hosting-ofr-img img {
+        margin: 0 auto;
+    }
+
+    .host-work {
+        padding-top: 50px;
+    }
+
+    .grid-cont {
+        padding: 35px 50px;
+
+    }
+
+    .hosting-pkg h2 {
+        padding-bottom: 30px;
+    }
+
+    .top-space {
+        margin-top: 25px;
+    }
+
+    .remove-sp {
+        margin-top: 25px;
+    }
+
+    #yel-card {
+        margin-top: 50px;
+        margin-bottom: 25px;
+    }
+
+    #brown-card {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    #nevy-card {
+        margin-bottom: 25px;
+    }
+
+    #green-card {
+        margin-top: 0px;
+        margin-bottom: 80px;
+    }
+
+    .machine-img img {
+        margin: 0 auto;
+    }
+
+    .machine-img img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .host-white {
+        margin-top: 5px;
+        position: static;
+    }
+
+    .human-sup {
+        margin: 0px 0px;
+        padding: 20px;
+    }
+
+    .para-sp {
+        padding: 0px 0px;
+        text-align: center;
+    }
+
+    .para-sp h4 {
+        font-size: 21px;
+    }
+
+    .human-sup img {
+        float: none;
+        margin: 0 auto;
+    }
+
+    .glyphicon {
+        top: 22px;
+        left: -59%;
+    }
+
+    .human-box {
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .navbar-toggle .icon-bar {
+        width: 30px;
+        height: 2px;
+        border: 2px solid;
+        border-radius: 1px;
+    }
+
+    .navbar-toggle {
+        margin-top: 25px;
+        margin-right: 40px;
+    }
+
+    .slide-cont {
+        padding: 5px;
+    }
+
+    .host-white {
+        padding: 5px;
+    }
+
+    .offer-text h3:after {
+
+        background-size: 80%;
+        right: -161px;
+    }
+
+    li.foot-li-pay.links img {
+        width: 10%;
+    }
+
+    li.foot-li-pay.links.store img {
+        width: 15%;
+    }
+
+    .navbar-nav {
+        float: left;
+        margin: 0;
+        padding-top: 21px;
+        margin-top: 15px;
+        position: static;
+        background-color: white;
+        width: 100%;
+        transition: 5s ease;
+        border-top: 1px solid;
+        left: 0;
+        z-index: 99;
+    }
+
+    .human-sup2 {
+        margin: 0px 30px;
+    }
+
+    .box-img img {
+        border-radius: 5px;
+        border-top: 3px solid #3aa9e0;
+        margin: 0 auto;
+    }
+
+    img.ofr-tag {
+        position: absolute;
+        right: 3.5%;
+        top: 51.3%;
+    }
+
+    div#glow-trigger {
+        height: auto;
+        min-height: auto;
+        max-height: auto;
+        overflow-y: hidden;
+        position: absolute;
+        width: 100%;
+        z-index: 99;
+    }
+}
+
+@media screen and (max-width:640px) {
+    .top-footer-img {
+
+        display: none;
+    }
+
+    #yel-card {
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    .offer-text h3 {
+        font-size: 58px;
+        font-weight: 400;
+    }
+
+    img.ofr-tag {
+        position: absolute;
+        right: -7.5%;
+        top: 51.3%;
+    }
+
+    .hosting-pkg {
+        margin-top: 30px;
+    }
+
+    .host-boost h2 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .offer-text h3:after {
+        background-size: 94%;
+        right: -78px;
+        width: 125px;
+        height: 106px;
+        top: 46px;
+    }
+
+    .host-boost h2 {
+        font-size: 30px;
+    }
+
+    .host-latest-tech h2 {
+        font-size: 30px;
+        padding-bottom: 25px;
+    }
+
+    .host-white h2 {
+        font-size: 30px;
+    }
+
+    .btn-group-lg>.btn,
+    .btn-lg {
+        font-size: 16px;
+    }
+
+    .host-dif {
+        padding-bottom: 30px;
+    }
+
+    .human-sup h3 {
+        font-size: 25px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
+@media screen and (max-width:567px) {
+    .search-box h1 {
+        font-size: 35px;
+        padding-top: 20px;
+        padding-bottom: 15px;
+    }
+
+    .search-here {
+        height: 45px;
+        width: 315px;
+    }
+
+    .search-button {
+        height: 45px;
+        width: 315px;
+    }
+
+    .offer-text h5 {
+        font-size: 30px;
+        font-weight: 300;
+    }
+
+    .offer-text h4 {
+        font-size: 48px;
+        font-weight: 300;
+    }
+
+    .offer-text h3 {
+        font-size: 45px;
+        font-weight: 400;
+    }
+
+    img.ofr-tag {
+        position: absolute;
+        right: -11.5%;
+        top: 45.3%;
+        width: 30%;
+    }
+
+    .host-work {
+        padding-top: 30px;
+    }
+
+    .hosting-pkg h2 {
+        font-size: 28px;
+    }
+
+    .hosting-pkg {
+        margin-top: 10px;
+    }
+
+    .top-space {
+        margin-top: 25px;
+    }
+
+    .host-boost h2 {
+        font-size: 25px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    #green-card {
+        margin-top: 0px;
+        margin-bottom: 45px;
+    }
+
+    .host-latest-tech h2 {
+        font-size: 24px;
+        padding-bottom: 25px;
+    }
+
+    .human-sup h3 {
+        font-size: 21px;
+
+    }
+
+    .human-sup p {
+        font-size: 15px;
+        color: white;
+    }
+
+    footer.host-foot-bg {
+        margin-top: 30px;
+    }
+
+    li.foot-li-pay.links img {
+        width: 15%;
+    }
+
+    li.foot-li-pay.links.store img {
+        width: 15%;
+    }
+}
+
+
+@media screen and (max-width:480px) {
+    .host-ofr {
+        padding: 18px;
+    }
+
+    .navbar-nav {
+        top: 150px;
+    }
+
+    .search-box h1 {
+        font-size: 25px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+
+    .hidn-img {
+        top: -31px;
+    }
+
+    .search-here {
+        height: 40px;
+        width: 250px;
+    }
+
+    .search-button {
+        height: 40px;
+        width: 250px;
+        font-size: 16px;
+    }
+
+    .search-box {
+        padding-bottom: 375px;
+    }
+
+    .offer-text h5 {
+        font-size: 22px;
+        font-weight: 300;
+    }
+
+    .offer-text h4 {
+        font-size: 35px;
+        font-weight: 300;
+    }
+
+    .offer-text h3 {
+        font-size: 31px;
+        font-weight: 400;
+    }
+
+    .ofr-btn {
+        width: 175px;
+        height: 40px;
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .ofr-btn2 {
+        width: 175px;
+        height: 40px;
+        font-size: 16px;
+    }
+
+    img.ofr-tag {
+        position: absolute;
+        right: 0.5%;
+        top: 44.3%;
+        width: 30%;
+    }
+
+    .grid-cont {
+        padding: 20px 5px;
+    }
+
+    .hosting-pkg h2 {
+        font-size: 25px;
+    }
+
+    .pkg-btn {
+        width: 175px;
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .host-boost h2 {
+        font-size: 18px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    #green-card {
+        margin-top: 0px;
+        margin-bottom: 35px;
+    }
+
+    .btn-group-lg>.btn,
+    .btn-lg {
+        font-size: 10px;
+    }
+
+    .host-white h2 {
+        font-size: 20px;
+    }
+
+    .host-latest-tech h2 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+
+    .human-sup h3 {
+        font-size: 15px;
+    }
+
+    .carousel-control {
+        margin-left: -3px;
+    }
+
+    .human-sup2 {
+        margin: 0px 0px;
+    }
+
+    .para-sp h4 {
+        font-size: 18px;
+    }
+
+    .copy-rgt {
+        border-top: 1px solid #52d1fd;
+        outline: none;
+    }
+
+    .offer-text h3:after {
+        background-size: 100%;
+        right: -63px;
+        content: "";
+        width: 91px;
+        height: 87px;
+        position: absolute;
+        top: 25px;
+    }
+
+    li.foot-li-pay.links img {
+        width: 20%;
+    }
+
+    li.foot-li-pay.links.store img {
+        width: 15%;
+    }
+}
